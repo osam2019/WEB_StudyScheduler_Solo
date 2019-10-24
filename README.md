@@ -1,4 +1,4 @@
-##Study Scheduler
+## Study Scheduler
 
 스터디를 계획, 모집, 그리고 관리할 수 있는 웹 서비스입니다. 
 
