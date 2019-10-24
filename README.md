@@ -1,6 +1,13 @@
+##Study Scheduler
+
+스터디를 계획, 모집, 그리고 관리할 수 있는 웹 서비스입니다. 
+
+개발자/팀 : (공군) 일병 박상민 / S2
+
 ## Project setup
 ```
 npm install
+npm run serve
 ```
 
 ## JSON server setup
@@ -8,17 +15,8 @@ npm install
 json-server ./src/assets/data.json
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Then, web service may be available at localhost:8080
 
-### Go to http://localhost:8080
-
-### Compiles and minifies for production
-```
-npm run build
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
